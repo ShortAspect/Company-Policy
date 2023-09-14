@@ -4,11 +4,11 @@ This is our terms in Copyright
 
 > :warning: **This is not legal advice or has been viewed by a lawyer.**
 
-We ("Short Aspect") own all Games, Music, and Art Assets copyrights.
+We as ("Short Aspect") own all Games, Music, and Art Assets copyrights.
 
 ## Art
 
-All art made for any of games are copyrighted which means you can't upload or edit any of the art. **Some casses are allowed under [Fair Use](https://www.copyright.gov/fair-use/#:~:text=Fair%20use%20is%20a%20legal,protected%20works%20in%20certain%20circumstances.) laws in the USA**
+All art produced for any of our games is subject to copyright protection, so it's prohibiting the act of uploading or modifying any such artwork. Note that certain exceptions may arise under Fair Use laws in the United States of America. To learn more about the concept of Fair Use, You can go to the official guidance provided by the United States Copyright Office, available at [Fair Use - United States Copyright Office.](https://www.copyright.gov/fair-use/#:~:text=Fair%20use%20is%20a%20legal,protected%20works%20in%20certain%20circumstances.)
 
 ## Music
 
